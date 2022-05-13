@@ -1,0 +1,42 @@
+.heading {
+    width: 100%;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.sub_heading {
+    font-size: small;
+}
+
+
+.bt {
+    text-align: center;
+    margin-left: 44%;
+    margin-top: 30px;
+    font-size: 25;
+    width: 150px;
+   background-color: brown;
+}
+
+.bd {
+    background-color: cornflowerblue;
+}
+
+h3 {
+    text-align: center;
+    height:100% ;
+}
+
+.copyright_footer {
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 6px rgb(151,149,149);
+
+}
